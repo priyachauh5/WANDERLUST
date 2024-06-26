@@ -3,9 +3,9 @@ mapboxgl.accessToken = mapToken;
 const map = new mapboxgl.Map({
     container: "map", // container ID
     // Choose from Mapbox's core styles, or make your own style with mapBox studio
-    style:"mapbox://styles/mapbox/streers-v12",
+    // style:"mapbox://styles/mapbox/streers-v12",
     center: listing.geometry.coordinates, // starting position [lng, lat]. Note that lat must be set between -90 and 90
-    zoom: 9 // starting zoom
+    zoom: 9// starting zoom
 });
 
 
