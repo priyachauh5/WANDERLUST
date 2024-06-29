@@ -22,7 +22,8 @@ const reviewRouter=require("./routes/review.js");
 const userRouter=require("./routes/user.js");
 
 // const MONGO_URL="mongodb://127.0.0.1:27017/wanderlust";
-const dbUrl="ATLASDB_URL=mongodb+srv://Priya-Chauhan:v5jozXhvbccir4H0@cluster0.l0qnjn4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+const dbUrl="mongodb+srv://Priya-Chauhan:v5jozXhvbccir4H0@cluster0.l0qnjn4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
 // const dbUrl=process.env.ATLASDB_URL;
 
 
