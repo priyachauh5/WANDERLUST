@@ -22,6 +22,9 @@
 
 🚀 Deployed on Render with GitHub integration
 
+## Screenshot
+<img width="1907" height="877" alt="Wonderlust" src="https://github.com/user-attachments/assets/6334533d-d7c9-4624-85dc-840b1787889f" />
+
 ## 🛠️ Tech Stack
 
 **Frontend**
